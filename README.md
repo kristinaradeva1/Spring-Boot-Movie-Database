@@ -4,6 +4,7 @@ Preview of the Spring Boot Movie management application:
 ![image](https://github.com/user-attachments/assets/a3d3c71b-553d-447a-bb4d-62861552998f)
 It provides an interface for managing a movie database.
 The main functionalities of the Movie application include:
+
 **1. Get all movies**
 
 ![image](https://github.com/user-attachments/assets/10cf748f-68ac-4b12-9fcf-d2662088f2d7)
